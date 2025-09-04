@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/web3-storage/example-forum-dapp#readme",
   "devDependencies": {
-    "concurrently": "^6.3.0"
+    "concurrently": "^6.5.1"
   },
   "dependencies": {
     "@web3-react/network-connector": "^6.1.9"
